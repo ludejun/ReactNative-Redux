@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.reactnativeredux;
 
 import android.app.Application;
 
