@@ -15,7 +15,6 @@ if (module.hot) {
   });
 }
 
-
 export default () => (
   <Provider store={store}>
     <App />
